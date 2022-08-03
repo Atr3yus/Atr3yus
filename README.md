@@ -7,13 +7,11 @@
 - 🌱 Estou no momento aprendendo HTML e CSS.
 - :unicorn: Escrevo codigos sempre usando minhas pantufas de unicornio, pq? são confotaveis e estilosas... :sunglasses:
 
-<br>
 
-<p display="flex" flex-direction="row">
  <a href="https://github.com/Atr3yus">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atr3yus&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atr3yus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <br>
