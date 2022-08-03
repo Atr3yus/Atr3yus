@@ -15,4 +15,4 @@
 
 
 
-[Snake animation](https://https://github.com/Atr3yus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://https://github.com/Atr3yus/blob/output/github-contribution-grid-snake.svg)
