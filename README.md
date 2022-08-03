@@ -1,8 +1,7 @@
 ## Olá, me chamo Robson ! 
-<div display="grid">
-  Bem vindo ao meu refugio no GitHub
-  <img width="80px" src="https://github.com/Atr3yus/Atr3yus/blob/main/WiCJ.gif" alt="pikachu" style="vertical-align:;">
-</div>
+### Bem vindo ao meu refugio no GitHub
+<img width="80px" src="https://github.com/Atr3yus/Atr3yus/blob/main/WiCJ.gif" alt="pikachu" style="vertical-align:;">
+
 
 <!--
 Here are some ideas to get you started:
@@ -28,3 +27,6 @@ Here are some ideas to get you started:
 <!--![Snake animation](https://https://github.com/Atr3yus/blob/output/github-contribution-grid-snake.svg)-->
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<br><br>
+<a href="https://instagram.com/robson.barbosa.0_0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/robson-barbosa-3b7963180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
