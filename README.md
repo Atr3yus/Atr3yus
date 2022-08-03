@@ -1,10 +1,12 @@
 ## Olá, me chamo Robson ! 
+<div display="grid">
+  Bem vindo ao meu refugio no GitHub
+  <img width="80px" src="https://github.com/Atr3yus/Atr3yus/blob/main/WiCJ.gif" alt="pikachu" style="vertical-align:;">
+</div>
 
-<h2>Bem vindo ao meu refugio no GitHub</h2>
-<h3><img width="50px" src="https://github.com/Atr3yus/Atr3yus/blob/main/WiCJ.gif" alt="pikachu" style="vertical-align:;"></h3>
-
-Here are some ideas to get you started:
 <!--
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,8 +23,8 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atr3yus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
-![Snake animation](https://https://github.com/Atr3yus/blob/output/github-contribution-grid-snake.svg)
+### 🖥️ Tecnologias e Ferramentas: 
+<br>
+<!--![Snake animation](https://https://github.com/Atr3yus/blob/output/github-contribution-grid-snake.svg)-->
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
