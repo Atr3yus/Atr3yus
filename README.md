@@ -1,8 +1,10 @@
 ## Olá, me chamo Robson ! 
-### Bem vindo ao meu refugio no GitHub 
 
-<!--Here are some ideas to get you started:
+<h2>Bem vindo ao meu refugio no GitHub</h2>
+<h3><img width="50px" src="https://github.com/Atr3yus/Atr3yus/blob/main/WiCJ.gif" alt="pikachu" style="vertical-align:;"></h3>
 
+Here are some ideas to get you started:
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +14,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+
+<div>
+<a href="https://github.com/Atr3yus">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atr3yus&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atr3yus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
