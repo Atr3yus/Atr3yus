@@ -5,8 +5,9 @@
 
 
 - 🌱 Estou no momento aprendendo HTML, CSS e JavaScript.
-- 📚 Futuro dev Front-End.
-- ⚡Curiosidade: Escrevo codigos sempre usando minhas pantufas de unicornio, pq? são confotaveis e estilosas...  :unicorn: :sunglasses:
+- :bug: Futuro dev Front-End.
+- 📚  Cursando Ciência da Computação.
+- ⚡  Curiosidade: Escrevo codigos sempre usando minhas pantufas de unicornio, pq? são confotaveis e estilosas...  :unicorn: :sunglasses:
 <br>
 <br>
  
