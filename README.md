@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estou no momento aprendendo HTML, CSS e JavaScript.
+- 🌱 Estou no momento aprendendo HTML, CSS, JavaScript e NodeJs.
 - :bug: Futuro Dev.
 - 📚 - Cursando Tecnico em Desenvolvimento de Sistemas.
 <!-- ⚡  Curiosidade: Escrevo codigos sempre usando minhas pantufas de unicornio, pq? são confotaveis e estilosas...  :unicorn: :sunglasses:-->
